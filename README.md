@@ -1,4 +1,4 @@
-# Efeito-Flip-e-Glassmorphism-Vidro-
+# Flip e Glassmorphism
 Aplicando CSS para virar uma carta, linear gradient e backdrop filter (blur) para efeito vidro.
 
 Dica: estude sobre rotação em CSS. Achei show! 
